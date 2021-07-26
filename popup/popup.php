@@ -43,7 +43,7 @@
 			<!--- -->
 			<!--- -->
 			<div style="" class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-4-percent inherit_tablet inherit_phone  instance-1" data-using-bg="true" data-t-w-inherits="default" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#f6f6f6" data-bg-opacity="0.9" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-				<div class="vc_column-inner">
+				<div class="vc_column-inner contact-width">
 					<div class="column-bg-overlay-wrap" data-bg-animation="none">
 						<div class="column-bg-overlay" style="opacity: 0.9; background-color: #f6f6f6;"></div>
 					</div>
@@ -66,7 +66,7 @@
 				</div>
 			</div>
 	<!--- -->
-		</div> 
+	
 	</div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
